@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 import pickle
 import sklearn
+
 model = pickle.load(open('weight_predictor_model.pkl', 'rb'))
 
 # ------------------------------------------- GUI: starts from here ----------------------------------
