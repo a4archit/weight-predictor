@@ -8,3 +8,4 @@ This **Streamlit** app is successfully deployed on internet.
 
 This model achieve 88% of **accuracy**.
 
+
