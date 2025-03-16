@@ -33,6 +33,7 @@ bmi_class = st.selectbox(
     ),
     key='Normal'
 )
+# conditions
 if bmi_class.startswith('Obese'):
     if 'III' in bmi_class:
         bmi_class = bmi_class.replace('III', '3')
@@ -48,6 +49,7 @@ gender_input = st.radio(
     "Gender",
     ["Male","Female"]
 )
+# preprocessing
 gender = 'M' if gender_input == "Male" else 'F'
 
 
