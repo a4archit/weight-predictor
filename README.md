@@ -6,6 +6,6 @@ This **Streamlit** app is successfully deployed on internet.
 
 **AIM**: To test my learning level in subdomain of Machine Learning(Supervised Learning)
 
-This model achieve 88% of **accuracy**.
+This model achieve ~88% of **accuracy**.
 
 
